@@ -4,6 +4,9 @@ Here's your **structured README.md** with improved formatting, clarity, and read
 
 **AgenticLinkedinPoster** is an AI-powered agent that fetches **news** related to prompted topics and publishes them automatically to **LinkedIn**. This repository contains code, documentation, and tests for automating LinkedIn posts using AI-generated or user-provided prompts.
 
+## Workflow diagram
+![diagram](image-3.png)
+
 ## 📸 Output Screenshot
 
 Below is an example output while the bot is running:
